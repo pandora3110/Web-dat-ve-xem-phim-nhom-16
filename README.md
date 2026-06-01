@@ -222,7 +222,7 @@ npm run dev
 
 ## 🎥 Video Demo
 
-> Đang cập nhật...
+(https://drive.google.com/drive/folders/1zpdH9uJjjABv7kcfDaFtAc3brYajUt16?usp=sharing)
 
 ---
 
