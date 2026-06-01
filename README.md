@@ -176,15 +176,15 @@ npm run dev
 
 | Thông tin | Giá trị |
 |------------|----------|
-| Email | duyanhth5@gmail.com |
-| Password | boimixi36 |
+| Email | admin@gmail.com |
+| Password | 123456 |
 
 ### User
 
 | Thông tin | Giá trị |
 |------------|----------|
-| Email | worogo9175@okcdeals.com |
-| Password | boimixi36 |
+| Email | user@gmail.com |
+| Password | 123456 |
 
 ---
 
@@ -193,40 +193,32 @@ npm run dev
 ### Trang chủ
 
 <p align="center">
-  <img src="images/home.png" width="900">
+ <img width="3029" height="1665" alt="image" src="https://github.com/user-attachments/assets/2c620561-cefd-46ed-b774-4759a637b6d7" />
+
 </p>
 
-### Chi tiết phim
 
-<p align="center">
-  <img src="images/movie-detail.png" width="900">
-</p>
+## Trang chọn suất chiếu, rạp User
+<img width="3016" height="1662" alt="image" src="https://github.com/user-attachments/assets/f1348fe9-143b-4408-af3b-e2b380407013" />
 
-### Chọn suất chiếu
+## Trang chọn ghế User
+<img width="3064" height="1660" alt="image" src="https://github.com/user-attachments/assets/2cafd7ea-acbe-4b82-ab60-03acabdd0242" />
 
-<p align="center">
-  <img src="images/showtime.png" width="900">
-</p>
+## Lịch sử đặt vé
+<img width="3060" height="1657" alt="image" src="https://github.com/user-attachments/assets/8b7e5ec7-5e96-4eaa-a400-2b51e76261de" />
 
-### Chọn ghế
+## Dashboard Admin
+<img width="3010" height="1651" alt="image" src="https://github.com/user-attachments/assets/732a73f9-15af-4486-9584-0980d4b691c7" />
 
-<p align="center">
-  <img src="images/seat-booking.png" width="900">
-</p>
+## Quản lí phim Admin
+<img width="3013" height="1649" alt="image" src="https://github.com/user-attachments/assets/b676bcbe-0aea-47a0-9b6a-44599e0a4cf4" />
 
-### Lịch sử đặt vé
+## Quản lí suất chiếu Admin
+<img width="3017" height="1653" alt="image" src="https://github.com/user-attachments/assets/211b24a6-0471-45e7-a3e9-c15b81b72d45" />
 
-<p align="center">
-  <img src="images/history.png" width="900">
-</p>
+## Quản lí người dùng Admin
+<img width="3030" height="1741" alt="image" src="https://github.com/user-attachments/assets/9781d881-8814-464d-8a13-184f53503535" />
 
-### Trang quản trị
-
-<p align="center">
-  <img src="images/admin-dashboard.png" width="900">
-</p>
-
----
 
 ## 🎥 Video Demo
 
@@ -240,6 +232,3 @@ npm run dev
 
 ---
 
-## 📄 Giấy phép
-
-Dự án được phát triển phục vụ mục đích học tập và nghiên cứu tại trường đại học.
